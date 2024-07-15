@@ -1,0 +1,7 @@
+.Container{
+   display: flex;
+   -ms-flex-align:end;
+}
+.c1{
+    display: flex;
+}
